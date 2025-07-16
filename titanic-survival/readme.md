@@ -1,4 +1,4 @@
-# 🚢 Titanic Survival Prediction – EDA + Machine Learning
+#  Titanic Survival Prediction – EDA + Machine Learning
 
 This project explores the famous Titanic dataset to predict which passengers were more likely to survive.
  Using exploratory data analysis (EDA) and a simple logistic regression model, I uncovered patterns in the data, trained a model, and evaluated its performance — all while learning to visualize and interpret results clearly.
